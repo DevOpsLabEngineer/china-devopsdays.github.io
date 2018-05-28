@@ -8,7 +8,7 @@
 
 http://devopsdays-volunteer.mikecrm.com/RuTI3X9
 
-(二维码)[/RuTI3X9.png]
+![二维码](./RuTI3X9.png "扫码报名")
 
 ## 贡献
 
